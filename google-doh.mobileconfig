@@ -24,7 +24,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Google DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.adamheckler.google-doh.BE14DC3B-F1B0-4F87-80D6-2E36CE9D52E8</string>
+			<string>name.chipwarden.google-doh.BE14DC3B-F1B0-4F87-80D6-2E36CE9D52E8</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Google DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.adamheckler.google-doh</string>
+	<string>name.chipwarden.google-doh</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

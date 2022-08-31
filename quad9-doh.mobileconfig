@@ -24,7 +24,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Quad9 DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.adamheckler.quad9-doh.A7620E3C-2870-4901-A2B6-98B6DF7B5BAA</string>
+			<string>name.chipwarden.quad9-doh.A7620E3C-2870-4901-A2B6-98B6DF7B5BAA</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Quad9 DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.adamheckler.quad9-doh</string>
+	<string>name.chipwarden.quad9-doh</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
